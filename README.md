@@ -1,7 +1,5 @@
 # Date-Time-Overlay
 
-# Download
-
 [![Download for Windows](https://github.com/user-attachments/assets/046df050-14d3-4296-a27b-0d522c889944)](https://github.com/shanmattari-dev/Date-Time-Overlay/releases/download/Release/DateTime_Overlay_V_30.exe)
 
 I often get so immersed in games that I lose track of time.
