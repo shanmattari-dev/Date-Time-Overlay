@@ -18,7 +18,7 @@ So, I created a simple time overlay program that displays the current time direc
 
 If you "uncheck" Click-Through, You can drag your clock to any where!
 
-You can type any text at "Date / Time Formate" in "dropdown list" and then it become overlay! 
+You can type any text at "Date / Time Format" in "dropdown list" and then it become overlay! 
 
 # Example
 
